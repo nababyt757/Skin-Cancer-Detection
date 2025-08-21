@@ -31,7 +31,7 @@ Dataset used: **Melanoma Cancer Image Dataset** (Kaggle).
 - Image resolution: 64×64 px  
 - Data split: Training / Validation  
 
-> 📎 Dataset link: [Kaggle – Melanoma Cancer Dataset](https://www.kaggle.com/)  
+> 📎 Dataset link: [Kaggle – Melanoma Cancer Dataset](https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset)  
 
 ---
 
